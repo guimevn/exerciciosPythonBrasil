@@ -4,3 +4,4 @@ import math
 r = int(input('Digite o raio do círculo: '))
 a = math.pi * r ** 2
 print('A área do círculo com o raio {} é igual a: {:.2f}'.format(r, a))
+ 
