@@ -11,4 +11,4 @@ print('Você terá que comprar {} tintas e terá que pagar R${}'.format(math.cei
 
 # outro jeito de fazer ->
 # if lT % 18 != 0:
-#   qtdL += 1
+#   qtdL += 1 
