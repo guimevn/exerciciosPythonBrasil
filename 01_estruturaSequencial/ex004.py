@@ -6,3 +6,4 @@ n3 = float(input('Digite sua terceira nota: '))
 n4 = float(input('Digite sua quarta nota: '))
 med = (n1 + n2 + n3 + n4)/4
 print('Com as notas {}, {}, {} e {} a sua média ficará: {:.2f}'.format(n1, n2, n3, n4, med))
+ 
