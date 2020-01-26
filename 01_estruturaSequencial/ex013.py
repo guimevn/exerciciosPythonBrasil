@@ -8,3 +8,4 @@ if HouM == 'h':
     print('O seu peso ideal é: {:.2f}'.format((72.7*alt) - 58))
 else:
     print('O seu peso ideal é: {:.2f}'.format((62.1*alt) - 44.7))
+ 
