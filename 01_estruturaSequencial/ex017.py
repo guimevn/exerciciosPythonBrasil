@@ -21,4 +21,4 @@ if lT - (mistLatas * 18) % 3.6 != 0:
     mistGal += 1
 
 print('Você terá que comprar {} latas, {} galões e terá que pagar R${:.2f}'.format(mistLatas, mistGal, (mistLatas * 80)
-                                                                                   + (mistGal * 25)))
+                                                                                   + (mistGal * 25))) 
