@@ -3,4 +3,4 @@
 l = int(input('Informe a medida de um lado do quadrado: '))
 a = l ** 2
 print('A área do quadrado é {} e o dobro dela é: {}'.format(a, a*2))
-
+ 
