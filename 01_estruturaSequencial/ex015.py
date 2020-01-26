@@ -18,3 +18,4 @@ print('O seu salário - INSS (8%): R${}'.format(salB - INSS))
 print('O seu salário - IR (11%): R${}'.format(salB - IR))
 print('O seu salário - Sindicato (5%): R${}'.format(salB - SIN))
 print('O seu salário líquido: R${}'.format(salB - INSS - IR - SIN))
+ 
