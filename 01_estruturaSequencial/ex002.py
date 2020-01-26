@@ -2,3 +2,4 @@
 
 n1 = int(input('Digite um número aleatório: '))
 print('O número informado foi ', n1)
+ 
