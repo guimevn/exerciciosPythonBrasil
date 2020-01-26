@@ -4,3 +4,4 @@ o total do seu salário no referido mês. """
 salH = float(input('Quanto você ganha por hora? R$'))
 numH = int(input('Quantas horas você trabalha por mês? '))
 print('Você ganhará no mês R$', salH * numH)
+ 
