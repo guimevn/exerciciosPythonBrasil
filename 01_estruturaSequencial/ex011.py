@@ -9,3 +9,4 @@ fl1 = float(input('Digite um número real: '))
 print('O produto do dobro do primeiro com metade do segundo: {}'.format((int1 * 2) * (int2*0.5)))
 print('A soma do triplo do primeiro com o terceiro: {}'.format((int1 * 3) + fl1))
 print('O terceiro elevado ao cubo: {:.3f}'.format(fl1 ** 3))
+ 
